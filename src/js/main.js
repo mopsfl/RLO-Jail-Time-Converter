@@ -105,7 +105,7 @@ function shareResult(a) {
     if (getCurrentResult() != null && getCurrentMethod() != null) {
         var months = document.getElementById("months").value
         var method = getCurrentMethod()
-        var url = window.location.origin + window.location.pathname + "?m=" + months + "&k=" + method
+        var url = "file://"+ window.location.pathname + "?m=" + months + "&k=" + method
         navigator.clipboard.writeText(url)
         a.innerHTML = "Kopiert!"
         setTimeout(() => {
