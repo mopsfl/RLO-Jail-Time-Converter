@@ -1,5 +1,5 @@
 # RLO Jail Time Converter
 
->Ein Converter um die Gefängiss Monate in Real Life Online in Minuten oder Tage zu rechnen.
+> Ein Converter um die Gefängiss Monate in Real Life Online in Stunden oder Tage zu rechnen.
 
-> [Hier](https://mopsfl.github.io) testen
+> [Hier](https://mopsfl.github.io/projects/i/rlo-time-conver) kannst du es testen.
