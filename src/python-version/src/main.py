@@ -1,5 +1,4 @@
 import os
-from typing import Match
 
 print("mopsfl - Real Life Online - Jail Time Convert - v.0.1\n")
 
